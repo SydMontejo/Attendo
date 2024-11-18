@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893745498324",
+    "project_id": "attende-d3322",
+    "storage_bucket": "attende-d3322.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893745498324:android:ec0d38761e98ce12ec9341",
+        "android_client_info": {
+          "package_name": "com.example.attendo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6bWQaBYR1j7yhvi5uSM74T07HyBDSOn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
